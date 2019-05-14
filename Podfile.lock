@@ -1,0 +1,21 @@
+PODS:
+  - LBTATools (0.1.7)
+
+DEPENDENCIES:
+  - LBTATools (from `https://github.com/bhlvoong/LBTATools`)
+
+EXTERNAL SOURCES:
+  LBTATools:
+    :git: https://github.com/bhlvoong/LBTATools
+
+CHECKOUT OPTIONS:
+  LBTATools:
+    :commit: 0deaa77aefe13a975fe408cd64a886c829e7bfeb
+    :git: https://github.com/bhlvoong/LBTATools
+
+SPEC CHECKSUMS:
+  LBTATools: 9d872089dd18cc9c1f8a98f0ad4fa5c22b53d38a
+
+PODFILE CHECKSUM: d5a6d8268c04882b3bf191f692e4e7d4c6a8aee7
+
+COCOAPODS: 1.6.1
